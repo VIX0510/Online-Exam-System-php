@@ -1,6 +1,7 @@
 # Online-Exam-System-php
 DBMS Lab project 6th sem 
 
+Screenshots:
 ![alt text](https://github.com/VIX0510/Online-Exam-System-php/blob/main/Screenshots/Screenshot%20(3).jpeg?raw=true)
 ![alt text](https://github.com/VIX0510/Online-Exam-System-php/blob/main/Screenshots/Screenshot%20(4).jpeg?raw=true)
 ![alt text](https://github.com/VIX0510/Online-Exam-System-php/blob/main/Screenshots/Screenshot%20(5).jpeg?raw=true)
